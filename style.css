@@ -11,7 +11,7 @@
       rgba(92, 94, 100, 0.7),
       rgba(46, 56, 50, 0.7)
     ),
-    url(images/banner.PNG);
+    url(images/banner.png);
   /**/
   background-position: center;
   background-size: cover; /* Resize the background image to cover the entire container */
